@@ -19,6 +19,7 @@ import { RecuperacionComponent } from './recuperacion/recuperacion.component';
 import { GaleriaComponent } from './galeria/galeria.component';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
 import { environment } from 'src/environments/environment';
+import { PerfilesComponent } from './perfiles/perfiles.component';
 
 
 @NgModule({
@@ -30,7 +31,8 @@ import { environment } from 'src/environments/environment';
     MenuComponent,
     PromocionesComponent,
     RecuperacionComponent,
-    GaleriaComponent
+    GaleriaComponent,
+    PerfilesComponent
   ],
   imports: [
     BrowserModule,
