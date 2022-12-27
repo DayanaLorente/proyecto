@@ -5,7 +5,7 @@ html {
 
 body{
     font-family: sans-serif;
-    background: #dbdbdb;
+    background: #ffffffbd;
     margin: 0;
     overflow-y: auto;
     display: flex;
@@ -26,7 +26,7 @@ header{
     display: flex;
     position: sticky;
     height: 75px;
-    background-color: #eeeeee;
+    background-color: #a5d4c4;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
@@ -41,8 +41,8 @@ header{
 }
 
 a button{
-    color: white;
-    background-color: rgb(18, 11, 122);
+    color: rgb(1, 1, 1);
+    background-color: rgb(103, 161, 145, 0.957);
     border-radius: 5px;
     width: 110px;
     height: 50px;

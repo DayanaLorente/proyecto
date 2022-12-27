@@ -16,7 +16,7 @@ header{
     display: flex;
     position: sticky;
     height: 75px;
-    background-color: #eeeeee;
+    background-color: #a5d4c4;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
@@ -31,8 +31,8 @@ header{
 }
 
 a button{
-    color: white;
-    background-color: rgb(18, 11, 122);
+    color: rgb(0, 0, 0);
+    background-color: rgba(103, 161, 145, 0.957);
     border-radius: 5px;
     width: 110px;
     height: 50px;
@@ -70,13 +70,13 @@ div .cuerpo{
     width: 250px;
     height: 180px;
     border-radius: 10px;
-    border-color: #dbdbdb;
+    border-color: #000000;
     box-shadow: 4px 4px 4px 0px;
     transition: .2s;
     cursor: pointer;
 }
 .menu button:hover{
-    background-color: rgb(207, 161, 32);
+    background-color: rgba(90, 215, 165, 0.842);
     width: 260px;
     height: 190px;
     transition: .2s;
@@ -99,7 +99,7 @@ footer{
 
 .navv a{
     text-decoration: none;
-    color: rgb(231, 228, 228);
+    color: rgb(255, 250, 250);
     display:contents;
     padding: 15px;
     margin: auto;
